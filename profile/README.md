@@ -27,7 +27,7 @@ Build adaptive AI systems that learn, make decisions, and work together to perfo
 
 ### OpenStrand
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo-gradient.svg" alt="OpenStrand" width="100" />
+  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo-mono.svg" alt="OpenStrand" width="80" />
 </div>
 
 **Your second brain, visualized and woven**  
@@ -41,17 +41,6 @@ Automatically connects and categorizes everything—documents, notes, ideas—in
 - **[sql-storage-adapter](https://github.com/framersai/sql-storage-adapter)** - SQL that just works everywhere [![npm](https://img.shields.io/npm/v/@framers/sql-storage-adapter?style=flat-square)](https://www.npmjs.com/package/@framers/sql-storage-adapter)
 
 ---
-**We're building:**
-- AgentOS, WebOS, HomeOS, SafeOS, WorkOS, MyOS - Operating systems for every part of your life
-- All interconnected, all under your control
----
-
-### Talk to Us
-- **Email**: [team@frame.dev](mailto:team@frame.dev)
-- **Twitter**: [@framersai](https://twitter.com/framersai)
-- **GitHub**: [github.com/framersai](https://github.com/framersai)
-
----
 <div align="center">
-  <p>© 2025 Framers · <a href="https://frame.dev">frame.dev</a></p>
+  <p>© 2025 Framers · we are the framers <a href="https://frame.dev">frame.dev</a></p>
 </div>
