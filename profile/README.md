@@ -13,8 +13,6 @@
 
 ---
 
-## What is Frame?
-
 We're building operating systems that actually work for you, not against you. Open source, local-first, AI-powered—but most importantly, yours.
 
 **The big idea**: Your digital life shouldn't be scattered across 50 different apps owned by companies that treat you like a product. Frame brings it all together, on your terms.
@@ -50,12 +48,9 @@ Automatically connects and categorizes everything—documents, notes, ideas—in
 ### 🛠 Dev Tools
 
 - **[sql-storage-adapter](https://github.com/framersai/sql-storage-adapter)** - SQL that just works everywhere [![npm](https://img.shields.io/npm/v/@framers/sql-storage-adapter?style=flat-square)](https://www.npmjs.com/package/@framers/sql-storage-adapter)
-- **[voice-chat-assistants](https://vca.chat)** - Voice AI marketplace
 - **[codex](https://github.com/framersai/codex)** - Knowledge mapping project
 
 ---
-
-## Why Frame?
 
 **We believe in:**
 - 🔓 **Open source** - See everything, change everything
@@ -80,7 +75,7 @@ Automatically connects and categorizes everything—documents, notes, ideas—in
 ### Build With It
 ```bash
 npm install @framers/agentos
-npm install @openstrand/sdk
+npm install @framers/openstrand-dk
 ```
 
 ### Talk to Us
@@ -90,12 +85,6 @@ npm install @openstrand/sdk
 
 ---
 
-## Tech Stack
-TypeScript • React • Next.js • Node.js • PostgreSQL • SQLite • Your favorite AI models
-
----
-
 <div align="center">
-  <p><strong>Frame is what happens when developers get tired of building for companies instead of people.</strong></p>
-  <p>© 2025 Framers AI · <a href="https://frame.dev">frame.dev</a></p>
+  <p>© 2025 Framers · <a href="https://frame.dev">frame.dev</a></p>
 </div>
