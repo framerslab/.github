@@ -18,34 +18,33 @@ We're building operating systems designed to work with your life not just your t
 
 ## Core Projects
 
-### 🤖 AgentOS
+### AgentOS
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/agentos-logo.png" alt="AgentOS" width="250" />
 </div>
 
-**AI agents that actually do stuff**  
+**Adaptive AI agents*  
 Build adaptive AI systems that learn, make decisions, and work together. No black boxes, no vendor lock-in.
 
 - **[agentos](https://github.com/framersai/agentos)** - Core runtime [![npm](https://img.shields.io/npm/v/@framers/agentos?style=flat-square)](https://www.npmjs.com/package/@framers/agentos)
 - **[agentos.sh](https://agentos.sh)** - Docs & playground
 - **[agentos-client](https://github.com/framersai/agentos-client)** - Local testing environment
 
-### 🧠 OpenStrand
+### OpenStrand
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo-gradient.svg" alt="OpenStrand" width="150" />
+  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo-gradient.svg" alt="OpenStrand" width="100" />
 </div>
 
-**Your second brain, but actually useful**  
+**Your second brain, visualized and woven**  
 Automatically connects and categorizes everything—documents, notes, ideas—into a living knowledge graph you control.
 
 - **[openstrand](https://github.com/framersai/openstrand)** - Core protocols [![Website](https://img.shields.io/badge/Website-openstrand.ai-blue?style=flat-square)](https://openstrand.ai)
 - **[openstrand-app](https://github.com/framersai/openstrand-app)** - Desktop & mobile apps
 - **[openstrand-sdk](https://github.com/framersai/openstrand-sdk)** - TypeScript SDK [![npm](https://img.shields.io/npm/v/@openstrand/sdk?style=flat-square)](https://www.npmjs.com/package/@openstrand/sdk)
 
-### 🛠 Dev Tools
+### Dev Tools
 
 - **[sql-storage-adapter](https://github.com/framersai/sql-storage-adapter)** - SQL that just works everywhere [![npm](https://img.shields.io/npm/v/@framers/sql-storage-adapter?style=flat-square)](https://www.npmjs.com/package/@framers/sql-storage-adapter)
-- **[codex](https://github.com/framersai/codex)** - Knowledge mapping project
 
 ---
 
