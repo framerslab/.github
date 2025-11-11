@@ -18,6 +18,7 @@ We're building operating systems designed to work with your life not just your t
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/agentos-logo.png" alt="AgentOS" width="250" />
 </div>
+
 **Adaptive AI agents*  
 Build adaptive AI systems that learn, make decisions, and work together. No black boxes, no vendor lock-in.
 - **[agentos](https://github.com/framersai/agentos)** - Core runtime [![npm](https://img.shields.io/npm/v/@framers/agentos?style=flat-square)](https://www.npmjs.com/package/@framers/agentos)
@@ -28,6 +29,7 @@ Build adaptive AI systems that learn, make decisions, and work together. No blac
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo-gradient.svg" alt="OpenStrand" width="100" />
 </div>
+
 **Your second brain, visualized and woven**  
 Automatically connects and categorizes everything—documents, notes, ideas—into a living knowledge graph you control.
 - **[openstrand](https://github.com/framersai/openstrand)** - Core protocols [![Website](https://img.shields.io/badge/Website-openstrand.ai-blue?style=flat-square)](https://openstrand.ai)
