@@ -27,7 +27,7 @@ Build adaptive AI systems that learn, make decisions, and work together to perfo
 
 ### OpenStrand
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo-mono.svg" alt="OpenStrand" width="80" />
+  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo.svg" alt="OpenStrand" width="80" />
 </div>
 
 **Your second brain, visualized and woven**  
