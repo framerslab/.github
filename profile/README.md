@@ -38,6 +38,8 @@ Open source, local-first data ownership, and AI-augmented experiences. Our proje
 
 **TypeScript runtime for adaptive AI agent intelligence**
 
+AgentOS enables emergent AI design mechanics through composable agent architectures. Build intelligent systems that learn and adapt through modular components—personas, memory systems, guardrails, and tool integrations. The platform supports AI agency by allowing agents to make autonomous decisions, coordinate with other agents, and evolve their behavior based on context and feedback.
+
 | Project | Description | Links |
 |---------|-------------|-------|
 | **[agentos](https://github.com/framersai/agentos)** | Core TypeScript runtime for adaptive AI agents | [![npm](https://img.shields.io/npm/v/@framers/agentos?style=flat-square)](https://www.npmjs.com/package/@framers/agentos) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0) |
@@ -55,6 +57,8 @@ Open source, local-first data ownership, and AI-augmented experiences. Our proje
 </div>
 
 **AI-native knowledge infrastructure for teams that want to own their data**
+
+OpenStrand categorizes and connects the web through intelligent knowledge graphs and semantic linking. The platform automatically discovers relationships between concepts, documents, and data sources, creating a living web of interconnected information. AI-powered tagging and auto-linking mechanisms transform isolated content into a coherent knowledge network, enabling better discovery, understanding, and synthesis of information across your entire digital ecosystem.
 
 | Project | Description | Links |
 |---------|-------------|-------|
@@ -164,7 +168,5 @@ Most projects are licensed under **MIT** or **Apache 2.0**. Check individual rep
 ---
 
 <div align="center">
-  <p><strong>Building the future, one frame at a time.</strong></p>
-  <p>Made with ❤️ by the Framers team</p>
   <p>© 2025 Framers · <a href="https://frame.dev">frame.dev</a></p>
 </div>

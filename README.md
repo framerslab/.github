@@ -18,5 +18,5 @@ Building the next generation of operating systems for modern life. A suite of pl
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Framers team</p>
+  <p>© 2025 Framers</p>
 </div>
