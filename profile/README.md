@@ -44,5 +44,5 @@ Automatically connects and categorizes everything—documents, notes, ideas—in
 
 ---
 <div align="center">
-  <p>© 2025 Framers · <i>we are the framers</i> <a href="https://frame.dev">frame.dev</a></p>
+  <p>© 2025 Framers · <i>we are the framers</i> <a href="https://frame.dev"> · frame.dev · team@frame.dev </a></p>
 </div>
