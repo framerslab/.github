@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/frame-logo-transparent.png" alt="Frame" width="400" />
   
-  <h3>Denoising the Web · Building the OS for Your Life</h3>
+  <h3>Denoising the Web</h3>
   
   [![Website](https://img.shields.io/badge/Website-frame.dev-blue?style=flat-square)](https://frame.dev)
   [![Email](https://img.shields.io/badge/Email-team%40frame.dev-red?style=flat-square)](mailto:team@frame.dev)
@@ -14,8 +14,6 @@
 ---
 
 We're building operating systems designed to work with your life not just your tech. Open source, local-first, AI-native, and most importantly, yours.
-
-Denoise the web.
 
 ---
 
