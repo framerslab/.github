@@ -34,7 +34,7 @@ Build adaptive AI systems that learn, make decisions, and work together to perfo
 Automatically connects and categorizes everything—documents, notes, ideas—into a living knowledge graph you control.
 - **[openstrand](https://github.com/framersai/openstrand)** - Core protocols [![Website](https://img.shields.io/badge/Website-openstrand.ai-blue?style=flat-square)](https://openstrand.ai)
 - **[openstrand-app](https://github.com/framersai/openstrand-app)** - Desktop & mobile apps
-- **[openstrand-sdk](https://github.com/framersai/openstrand-sdk)** - TypeScript SDK [![npm](https://img.shields.io/npm/v/@openstrand/sdk?style=flat-square)](https://www.npmjs.com/package/@openstrand/sdk)
+- **[openstrand-sdk](https://github.com/framersai/openstrand-sdk)** - TypeScript SDK [![npm](https://img.shields.io/npm/v/@framers/openstrand-sdk?style=flat-square)](https://www.npmjs.com/package/@framers/openstrand-sdk)
 
 ### Dev Tools
 
