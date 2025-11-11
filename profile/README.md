@@ -10,9 +10,7 @@
   [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat-square&logo=discord)](https://discord.gg/framers)
 </div>
 
----
 We're building operating systems designed to work with your life not just your tech. Open source, local-first, AI-native, and most importantly, yours.
----
 
 ## Core Projects
 
