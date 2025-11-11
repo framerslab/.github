@@ -24,6 +24,7 @@ Build adaptive AI systems that learn, make decisions, and work together to perfo
 - **[agentos](https://github.com/framersai/agentos)** - Core runtime [![npm](https://img.shields.io/npm/v/@framers/agentos?style=flat-square)](https://www.npmjs.com/package/@framers/agentos)
 - **[agentos.sh](https://agentos.sh)** - Docs & playground
 - **[agentos-client](https://github.com/framersai/agentos-client)** - Local testing environment
+--
 
 ### OpenStrand
 <div align="center">
@@ -35,6 +36,7 @@ Automatically connects and categorizes everything—documents, notes, ideas—in
 - **[openstrand](https://github.com/framersai/openstrand)** - Core protocols [![Website](https://img.shields.io/badge/Website-openstrand.ai-blue?style=flat-square)](https://openstrand.ai)
 - **[openstrand-app](https://github.com/framersai/openstrand-app)** - Desktop & mobile apps
 - **[openstrand-sdk](https://github.com/framersai/openstrand-sdk)** - TypeScript SDK [![npm](https://img.shields.io/npm/v/@openstrand/sdk?style=flat-square)](https://www.npmjs.com/package/@openstrand/sdk)
+--
 
 ### Dev Tools
 
