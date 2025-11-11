@@ -10,7 +10,7 @@
   [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat-square&logo=discord)](https://discord.gg/framers)
 </div>
 
-We're building operating systems designed to work with your life not just your tech. Open source, local-first, AI-native, and most importantly, yours.
+We're building operating systems designed to work with your life not just your tech. Open source, local-first, AI-native, and yours.
 
 ## Core Projects
 
@@ -20,7 +20,7 @@ We're building operating systems designed to work with your life not just your t
 </div>
 
 **Adaptive AI agents*  
-Build adaptive AI systems that learn, make decisions, and work together. No black boxes, no vendor lock-in.
+Build adaptive AI systems that learn, make decisions, and work together to perform emergent behaviors.
 - **[agentos](https://github.com/framersai/agentos)** - Core runtime [![npm](https://img.shields.io/npm/v/@framers/agentos?style=flat-square)](https://www.npmjs.com/package/@framers/agentos)
 - **[agentos.sh](https://agentos.sh)** - Docs & playground
 - **[agentos-client](https://github.com/framersai/agentos-client)** - Local testing environment
@@ -45,18 +45,6 @@ Automatically connects and categorizes everything—documents, notes, ideas—in
 - AgentOS, WebOS, HomeOS, SafeOS, WorkOS, MyOS - Operating systems for every part of your life
 - All interconnected, all under your control
 ---
-## Get Started
-
-### Try It
-- **[AgentOS](https://agentos.sh)** - Start building AI agents
-- **[OpenStrand](https://openstrand.ai)** - Organize your knowledge
-- **[Discord](https://discord.gg/framers)** - Join the community
-
-### Build With It
-```bash
-npm install @framers/agentos
-npm install @framers/openstrand-dk
-```
 
 ### Talk to Us
 - **Email**: [team@frame.dev](mailto:team@frame.dev)
