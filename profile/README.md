@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/frame-logo-transparent.png" alt="Frame" width="400" />
   <h3>Denoising the Web</h3>
-  
   [![Website](https://img.shields.io/badge/Website-frame.dev-blue?style=flat-square)](https://frame.dev)
   [![Email](https://img.shields.io/badge/Email-team%40frame.dev-red?style=flat-square)](mailto:team@frame.dev)
   [![NPM](https://img.shields.io/badge/NPM-@framers-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/org/framers)
@@ -11,9 +10,7 @@
 </div>
 
 ---
-
 We're building operating systems designed to work with your life not just your tech. Open source, local-first, AI-native, and most importantly, yours.
-
 ---
 
 ## Core Projects
@@ -22,10 +19,8 @@ We're building operating systems designed to work with your life not just your t
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/agentos-logo.png" alt="AgentOS" width="250" />
 </div>
-
 **Adaptive AI agents*  
 Build adaptive AI systems that learn, make decisions, and work together. No black boxes, no vendor lock-in.
-
 - **[agentos](https://github.com/framersai/agentos)** - Core runtime [![npm](https://img.shields.io/npm/v/@framers/agentos?style=flat-square)](https://www.npmjs.com/package/@framers/agentos)
 - **[agentos.sh](https://agentos.sh)** - Docs & playground
 - **[agentos-client](https://github.com/framersai/agentos-client)** - Local testing environment
@@ -34,10 +29,8 @@ Build adaptive AI systems that learn, make decisions, and work together. No blac
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo-gradient.svg" alt="OpenStrand" width="100" />
 </div>
-
 **Your second brain, visualized and woven**  
 Automatically connects and categorizes everything—documents, notes, ideas—into a living knowledge graph you control.
-
 - **[openstrand](https://github.com/framersai/openstrand)** - Core protocols [![Website](https://img.shields.io/badge/Website-openstrand.ai-blue?style=flat-square)](https://openstrand.ai)
 - **[openstrand-app](https://github.com/framersai/openstrand-app)** - Desktop & mobile apps
 - **[openstrand-sdk](https://github.com/framersai/openstrand-sdk)** - TypeScript SDK [![npm](https://img.shields.io/npm/v/@openstrand/sdk?style=flat-square)](https://www.npmjs.com/package/@openstrand/sdk)
@@ -47,20 +40,10 @@ Automatically connects and categorizes everything—documents, notes, ideas—in
 - **[sql-storage-adapter](https://github.com/framersai/sql-storage-adapter)** - SQL that just works everywhere [![npm](https://img.shields.io/npm/v/@framers/sql-storage-adapter?style=flat-square)](https://www.npmjs.com/package/@framers/sql-storage-adapter)
 
 ---
-
-**We believe in:**
-- 🔓 **Open source** - See everything, change everything
-- 💾 **Local-first** - Your data lives on your devices, not our servers
-- 🤝 **AI that helps** - Augment your abilities, not replace them
-- 🎨 **Beautiful software** - Tools should spark joy
-- ⚡ **Speed matters** - Fast response times, always
-
 **We're building:**
 - AgentOS, WebOS, HomeOS, SafeOS, WorkOS, MyOS - Operating systems for every part of your life
 - All interconnected, all under your control
-
 ---
-
 ## Get Started
 
 ### Try It
@@ -80,7 +63,6 @@ npm install @framers/openstrand-dk
 - **GitHub**: [github.com/framersai](https://github.com/framersai)
 
 ---
-
 <div align="center">
   <p>© 2025 Framers · <a href="https://frame.dev">frame.dev</a></p>
 </div>
