@@ -13,11 +13,11 @@
 
 ---
 
-## 👋 Welcome to Framers
+## Welcome to Framers AI
 
-Building the next generation of operating systems for modern life. A suite of platforms that help you organize, simplify, and enhance your digital existence.
+**Framers AI** (known as **Framers** or **Frame**) is building the next generation of operating systems for modern life. We are the framers—architects of intelligent systems that help you organize, simplify, and enhance your digital existence. Our suite of platforms combines AI-driven automation, knowledge management, and local-first data ownership to give you complete control over your digital life.
 
-### 🌐 Links
+### Links
 
 - **Website**: [frame.dev](https://frame.dev)
 - **Email**: [team@frame.dev](mailto:team@frame.dev)
@@ -28,9 +28,9 @@ Open source, local-first data ownership, and AI-augmented experiences. Our proje
 
 ---
 
-## 🚀 Our Ecosystem
+## Our Ecosystem
 
-### 🤖 AgentOS Platform
+### AgentOS Platform
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/agentos-logo.png" alt="AgentOS" width="300" />
@@ -50,7 +50,7 @@ AgentOS enables emergent AI design mechanics through composable agent architectu
 
 ---
 
-### 🧬 OpenStrand Knowledge Platform
+### OpenStrand Knowledge Platform
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo-gradient.svg" alt="OpenStrand" width="300" />
@@ -68,7 +68,7 @@ OpenStrand categorizes and connects the web through intelligent knowledge graphs
 
 ---
 
-### 🛠️ Developer Tools & Infrastructure
+### Developer Tools & Infrastructure
 
 | Project | Description | Links |
 |---------|-------------|-------|
@@ -77,7 +77,7 @@ OpenStrand categorizes and connects the web through intelligent knowledge graphs
 
 ---
 
-### 🎙️ Voice & Communication
+### Voice & Communication
 
 | Project | Description | Links |
 |---------|-------------|-------|
@@ -85,7 +85,7 @@ OpenStrand categorizes and connects the web through intelligent knowledge graphs
 
 ---
 
-### 🌍 Community & Resources
+### Community & Resources
 
 | Project | Description | Links |
 |---------|-------------|-------|
@@ -94,30 +94,30 @@ OpenStrand categorizes and connects the web through intelligent knowledge graphs
 
 ---
 
-## 🎯 What We Build
+## What We Build
 
 ### Operating Systems for Modern Life
 
 A suite of operating systems for different aspects of your digital life:
 
-- **🤖 AgentOS** - Adaptive agent platform for AI-powered automation and intelligence
-- **🌐 WebOS** - Universal web framework for building modern applications
-- **🏠 HomeOS** - Smart home platform for connected living
-- **🔒 SafeOS** - Digital vault & identity management
-- **💼 WorkOS** - Project management & CRM platform
-- **📊 MyOS** - Universal dashboard for your digital life
+- **AgentOS** - Adaptive agent platform for AI-powered automation and intelligence
+- **WebOS** - Universal web framework for building modern applications
+- **HomeOS** - Smart home platform for connected living
+- **SafeOS** - Digital vault & identity management
+- **WorkOS** - Project management & CRM platform
+- **MyOS** - Universal dashboard for your digital life
 
 ### Our Philosophy
 
-- **🔓 Open Source First** - Transparent, community-driven development
-- **💾 Local-First Data** - Your data belongs to you
-- **🤖 AI-Augmented** - Enhancing human capability
-- **🎨 Beautiful Design** - Paper-inspired aesthetics
-- **⚡ Performance** - Fast, responsive experiences
+- **Open Source First** - Transparent, community-driven development
+- **Local-First Data** - Your data belongs to you
+- **AI-Augmented** - Enhancing human capability
+- **Beautiful Design** - Paper-inspired aesthetics
+- **Performance** - Fast, responsive experiences
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages**: TypeScript, JavaScript
 - **Frontend**: Next.js, React, Framer Motion, Tailwind CSS
@@ -129,7 +129,7 @@ A suite of operating systems for different aspects of your digital life:
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
 ### For Users
 - Try **[AgentOS](https://agentos.sh)** for AI agent intelligence
@@ -150,7 +150,7 @@ A suite of operating systems for different aspects of your digital life:
 
 ---
 
-## 📬 Contact & Support
+## Contact & Support
 
 - **General Inquiries**: [team@frame.dev](mailto:team@frame.dev)
 - **Enterprise**: [enterprise@frame.dev](mailto:enterprise@frame.dev)
@@ -161,12 +161,12 @@ A suite of operating systems for different aspects of your digital life:
 
 ---
 
-## 📄 License
+## License
 
 Most projects are licensed under **MIT** or **Apache 2.0**. Check individual repositories for details.
 
 ---
 
 <div align="center">
-  <p>© 2025 Framers · <a href="https://frame.dev">frame.dev</a></p>
+  <p>© 2025 Framers AI · <a href="https://frame.dev">frame.dev</a></p>
 </div>
