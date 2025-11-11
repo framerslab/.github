@@ -15,16 +15,16 @@
 
 ## 👋 Welcome to Framers
 
-**Framers** (also known as **Framers AI** or **Frame**) is building the next generation of operating systems for modern life. We're creating a suite of platforms that help you organize, simplify, and enhance your digital existence.
+Building the next generation of operating systems for modern life. A suite of platforms that help you organize, simplify, and enhance your digital existence.
 
-### 🌐 About Us
+### 🌐 Links
 
 - **Website**: [frame.dev](https://frame.dev)
 - **Email**: [team@frame.dev](mailto:team@frame.dev)
-- **NPM Organization**: [@framers](https://www.npmjs.com/org/framers)
-- **Social Media**: [@framersai](https://twitter.com/framersai) across all platforms
+- **NPM**: [@framers](https://www.npmjs.com/org/framers)
+- **Social**: [@framersai](https://twitter.com/framersai)
 
-We believe in **open source**, **local-first data ownership**, and **AI-augmented experiences** that put users in control. Our projects span agent intelligence, knowledge management, voice interfaces, and developer tools.
+Open source, local-first data ownership, and AI-augmented experiences. Our projects span agent intelligence, knowledge management, voice interfaces, and developer tools.
 
 ---
 
@@ -94,7 +94,7 @@ We believe in **open source**, **local-first data ownership**, and **AI-augmente
 
 ### Operating Systems for Modern Life
 
-Frame is not just one product—it's a suite of operating systems designed for different aspects of your digital life:
+A suite of operating systems for different aspects of your digital life:
 
 - **🤖 AgentOS** - Adaptive agent platform for AI-powered automation and intelligence
 - **🌐 WebOS** - Universal web framework for building modern applications
@@ -105,17 +105,15 @@ Frame is not just one product—it's a suite of operating systems designed for d
 
 ### Our Philosophy
 
-1. **🔓 Open Source First** - We believe in transparent, community-driven development
-2. **💾 Local-First Data** - Your data belongs to you, stored on your device with optional sync
-3. **🤖 AI-Augmented** - Intelligent features that enhance, not replace, human capability
-4. **🎨 Beautiful Design** - Paper-inspired aesthetics with careful attention to detail
-5. **⚡ Performance** - Fast, responsive experiences built with modern technologies
+- **🔓 Open Source First** - Transparent, community-driven development
+- **💾 Local-First Data** - Your data belongs to you
+- **🤖 AI-Augmented** - Enhancing human capability
+- **🎨 Beautiful Design** - Paper-inspired aesthetics
+- **⚡ Performance** - Fast, responsive experiences
 
 ---
 
 ## 🛠️ Tech Stack
-
-Our projects are built with modern, production-ready technologies:
 
 - **Languages**: TypeScript, JavaScript
 - **Frontend**: Next.js, React, Framer Motion, Tailwind CSS
@@ -143,8 +141,8 @@ Our projects are built with modern, production-ready technologies:
 
 ### For Organizations
 - **Enterprise Support**: [team@frame.dev](mailto:team@frame.dev)
-- **Custom Solutions**: We build tailored AI and knowledge management solutions
-- **Partnerships**: Let's collaborate on the future of digital operating systems
+- **Custom Solutions**: Tailored AI and knowledge management
+- **Partnerships**: [team@frame.dev](mailto:team@frame.dev)
 
 ---
 
@@ -161,7 +159,7 @@ Our projects are built with modern, production-ready technologies:
 
 ## 📄 License
 
-Most of our projects are licensed under the **MIT License** or **Apache 2.0**, promoting open source collaboration and innovation. Check individual repositories for specific license information.
+Most projects are licensed under **MIT** or **Apache 2.0**. Check individual repositories for details.
 
 ---
 

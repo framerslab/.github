@@ -4,7 +4,7 @@ This repository contains organization-wide GitHub configurations and templates f
 
 ## 👋 About Framers
 
-Framers (also known as Framers AI or Frame) is building the next generation of operating systems for modern life. We're creating a suite of platforms that help you organize, simplify, and enhance your digital existence.
+Building the next generation of operating systems for modern life. A suite of platforms that help you organize, simplify, and enhance your digital existence.
 
 **Learn more about our projects and ecosystem in our [organization profile](./profile/README.md).**
 
