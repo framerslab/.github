@@ -13,9 +13,9 @@
 
 ---
 
-We're building operating systems that actually work for you, not against you. Open source, local-first, AI-powered—but most importantly, yours.
+We're building operating systems designed to work with your life not just your tech. Open source, local-first, AI-native, and most importantly, yours.
 
-**The big idea**: Your digital life shouldn't be scattered across 50 different apps owned by companies that treat you like a product. Frame brings it all together, on your terms.
+Denoise the web.
 
 ---
 
