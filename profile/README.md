@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/frame-logo-transparent.png" alt="Frame" width="400" />
-  <h3 style="margin-top: -20px">Denoising the Web</h3>
+  <h3>Denoising the Web</h3>
   
   [![Website](https://img.shields.io/badge/Website-frame.dev-blue?style=flat-square)](https://frame.dev)
   [![Email](https://img.shields.io/badge/Email-team%40frame.dev-red?style=flat-square)](mailto:team@frame.dev)
