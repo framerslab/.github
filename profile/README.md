@@ -10,7 +10,9 @@
   [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat-square&logo=discord)](https://discord.gg/framers)
 </div>
 
-We're building operating systems designed to work with your life not just your tech. Open source, local-first, AI-native, and yours.
+We're building operating systems designed to work with seamlessly your life. Open source, local-first, AI-native, and yours. All built off of OpenStrand and AgentOS. 
+
+AgentOS AI assistants are capable of adapting their personas dynamically and can perform emergent behaviors.
 
 ## Core Projects
 
