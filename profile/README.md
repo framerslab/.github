@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/frame-logo-with-tagline.svg" alt="Frame" width="400" />
+  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/frame-logo-with-tagline.svg" alt="Frame" width="400" />
   
   [![Website](https://img.shields.io/badge/Website-frame.dev-00C896?style=flat-square)](https://frame.dev)
   [![Email](https://img.shields.io/badge/Email-team%40frame.dev-red?style=flat-square)](mailto:team@frame.dev)
@@ -22,8 +22,9 @@ Open source, local-first, AI-native, and yours. All built on **OpenStrand** and 
 ## 🌟 Core Projects
 
 ### 🤖 AgentOS
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/agentos-icon.svg" alt="AgentOS" width="120" />
+  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/agentos-icon.svg" alt="AgentOS" width="120" />
 </div>
 
 **Adaptive AI Agency Runtime**  
@@ -37,8 +38,9 @@ Build AI agents that adapt their personas dynamically, collaborate with each oth
 ---
 
 ### ∞ OpenStrand
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/openstrand-logo-gradient.svg" alt="OpenStrand" width="100" />
+  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/openstrand-logo-gradient.svg" alt="OpenStrand" width="100" />
 </div>
 
 **AI-Native Personal Knowledge Management**  
@@ -51,8 +53,9 @@ Your second brain, visualized and woven. Automatically connects and categorizes 
 ---
 
 ### 📚 FABRIC Codex
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/frame-logo-no-subtitle.svg" alt="Frame Codex" width="100" />
+  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/frame-logo-no-subtitle.svg" alt="Frame Codex" width="100" />
 </div>
 
 **The Codex of Humanity for LLMs**  
@@ -78,11 +81,13 @@ Curated, semantic knowledge infrastructure for AI retrieval and reasoning.
 ## 🚀 Getting Started
 
 ### Try AgentOS
+
 ```bash
 npm install @framers/agentos
 ```
 
 ### Try OpenStrand
+
 ```bash
 npm install @framers/openstrand-sdk
 ```
@@ -108,7 +113,7 @@ Projects are released under various open source licenses. See individual reposit
 
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/framersai/frame.dev/master/public/frame-logo-no-subtitle.svg" alt="Frame" width="80" />
+  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/frame-logo-no-subtitle.svg" alt="Frame" width="80" />
   <p>
     <strong>© 2025 Framers</strong><br/>
     <em>we are the framers</em><br/>
