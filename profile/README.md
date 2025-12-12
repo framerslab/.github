@@ -74,9 +74,9 @@ Your second brain, visualized and woven. Automatically connects and categorizes 
   </picture>
 </div>
 
-**The Codex of Humanity for LLMs**
+**The notetaking app that can answer your questions**
 
-Curated, semantic knowledge infrastructure for AI retrieval and reasoning.
+Curated, semantic knowledge infrastructure for AI retrieval and reasoning. Live at **[frame.dev](https://frame.dev)**.
 
 - **[codex](https://github.com/framersai/codex)** - Core codex repository & browser [![Website](https://img.shields.io/badge/Browse-frame.dev%2Fcodex-00C896?style=flat-square)](https://frame.dev/codex)
 - **[codex-viewer](https://www.npmjs.com/package/@framers/codex-viewer)** - Embeddable knowledge browser [![npm](https://img.shields.io/npm/v/@framers/codex-viewer?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/codex-viewer)
@@ -86,12 +86,6 @@ Curated, semantic knowledge infrastructure for AI retrieval and reasoning.
 ### Ìª†Ô∏è Developer Tools
 
 - **[sql-storage-adapter](https://github.com/framersai/sql-storage-adapter)** - Universal SQL adapter for SQLite, Postgres, MySQL across Node.js, Bun, Deno [![npm](https://img.shields.io/npm/v/@framers/sql-storage-adapter?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/sql-storage-adapter)
-
----
-
-### Ìºê Frame Ecosystem
-
-- **[frame.dev](https://github.com/framersai/frame.dev)** - Main website, landing pages, and documentation hub [![Website](https://img.shields.io/badge/Live-frame.dev-00C896?style=flat-square)](https://frame.dev)
 
 ---
 
