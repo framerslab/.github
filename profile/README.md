@@ -4,9 +4,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
     <img alt="Frame" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="300">
   </picture>
-  
+
   <br/><br/>
-  
+
   [![Website](https://img.shields.io/badge/Website-frame.dev-00C896?style=flat-square)](https://frame.dev)
   [![Email](https://img.shields.io/badge/Email-team%40frame.dev-red?style=flat-square)](mailto:team@frame.dev)
   [![NPM](https://img.shields.io/badge/NPM-@framers-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/org/framers)
@@ -25,15 +25,16 @@ Open source, local-first, AI-native, and yours. All built on **OpenStrand** and 
 
 ---
 
-## üåü Core Projects
+## Ìºü Core Projects
 
-### ü§ñ AgentOS
+### Ì¥ñ AgentOS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/.github/main/profile/agentos-logo.png" alt="AgentOS" width="180" />
+  <img src="https://raw.githubusercontent.com/framersai/.github/main/profile/agentos-logo.png" alt="AgentOS" width="240" />
 </div>
 
-**Adaptive AI Agency Runtime**  
+**Adaptive AI Agency Runtime**
+
 Build AI agents that adapt their personas dynamically, collaborate with each other, and perform emergent behaviors.
 
 - **[agentos](https://github.com/framersai/agentos)** - Core runtime & cognitive substrate [![npm](https://img.shields.io/npm/v/@framers/agentos?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/agentos)
@@ -49,11 +50,12 @@ Build AI agents that adapt their personas dynamically, collaborate with each oth
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-light.png">
-    <img alt="OpenStrand" src="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-light.png" width="140">
+    <img alt="OpenStrand" src="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-light.png" width="200">
   </picture>
 </div>
 
-**AI-Native Personal Knowledge Management**  
+**AI-Native Personal Knowledge Management**
+
 Your second brain, visualized and woven. Automatically connects and categorizes everything‚Äîdocuments, notes, ideas‚Äîinto a living knowledge graph you control.
 
 - **[openstrand](https://github.com/framersai/openstrand)** - Core protocols & infrastructure [![Website](https://img.shields.io/badge/Website-openstrand.ai-00C896?style=flat-square)](https://openstrand.ai)
@@ -61,18 +63,19 @@ Your second brain, visualized and woven. Automatically connects and categorizes 
 - **[openstrand-sdk](https://github.com/framersai/openstrand-sdk)** - TypeScript SDK [![npm](https://img.shields.io/npm/v/@framers/openstrand-sdk?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/openstrand-sdk)
 
 ---
-picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
-    <img alt="Frame Codex" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="120">
-  </picture
-### üìö FABRIC Codex
+
+### Ì≥ö FABRIC Codex
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/frame-logo-no-subtitle.svg" alt="Frame Codex" width="100" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
+    <img alt="Frame Codex" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="200">
+  </picture>
 </div>
 
-**The Codex of Humanity for LLMs**  
+**The Codex of Humanity for LLMs**
+
 Curated, semantic knowledge infrastructure for AI retrieval and reasoning.
 
 - **[codex](https://github.com/framersai/codex)** - Core codex repository & browser [![Website](https://img.shields.io/badge/Browse-frame.dev%2Fcodex-00C896?style=flat-square)](https://frame.dev/codex)
@@ -80,19 +83,19 @@ Curated, semantic knowledge infrastructure for AI retrieval and reasoning.
 
 ---
 
-### üõ†Ô∏è Developer Tools
+### Ìª†Ô∏è Developer Tools
 
 - **[sql-storage-adapter](https://github.com/framersai/sql-storage-adapter)** - Universal SQL adapter for SQLite, Postgres, MySQL across Node.js, Bun, Deno [![npm](https://img.shields.io/npm/v/@framers/sql-storage-adapter?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/sql-storage-adapter)
 
 ---
 
-### üåê Frame Ecosystem
+### Ìºê Frame Ecosystem
 
 - **[frame.dev](https://github.com/framersai/frame.dev)** - Main website, landing pages, and documentation hub [![Website](https://img.shields.io/badge/Live-frame.dev-00C896?style=flat-square)](https://frame.dev)
 
 ---
 
-## üöÄ Getting Started
+## Ì∫Ä Getting Started
 
 ### Try AgentOS
 
@@ -110,7 +113,7 @@ Visit [frame.dev](https://frame.dev) to explore all our products.
 
 ---
 
-## ü§ù Community
+## Ì¥ù Community
 
 - **Discord**: [Join our community](https://discord.gg/VXXC4SJMKh)
 - **Twitter**: [@framersai](https://twitter.com/framersai)
@@ -119,7 +122,7 @@ Visit [frame.dev](https://frame.dev) to explore all our products.
 
 ---
 
-## üìÑ License
+## Ì≥Ñ License
 
 Projects are released under various open source licenses. See individual repositories for details.
 
