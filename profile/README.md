@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/frame-logo-with-tagline.svg" alt="Frame" width="400" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
+    <img alt="Frame" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="300">
+  </picture>
+  
+  <br/><br/>
   
   [![Website](https://img.shields.io/badge/Website-frame.dev-00C896?style=flat-square)](https://frame.dev)
   [![Email](https://img.shields.io/badge/Email-team%40frame.dev-red?style=flat-square)](mailto:team@frame.dev)
@@ -19,12 +25,12 @@ Open source, local-first, AI-native, and yours. All built on **OpenStrand** and 
 
 ---
 
-## ğŸŒŸ Core Projects
+## í¼Ÿ Core Projects
 
-### ğŸ¤– AgentOS
+### í´– AgentOS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/agentos-icon.svg" alt="AgentOS" width="120" />
+  <img src="https://raw.githubusercontent.com/framersai/.github/main/profile/agentos-logo.png" alt="AgentOS" width="180" />
 </div>
 
 **Adaptive AI Agency Runtime**  
@@ -40,7 +46,11 @@ Build AI agents that adapt their personas dynamically, collaborate with each oth
 ### âˆ OpenStrand
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/openstrand-logo-gradient.svg" alt="OpenStrand" width="100" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-light.png">
+    <img alt="OpenStrand" src="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-light.png" width="140">
+  </picture>
 </div>
 
 **AI-Native Personal Knowledge Management**  
@@ -52,10 +62,14 @@ Your second brain, visualized and woven. Automatically connects and categorizes 
 
 ---
 
-### ğŸ“š FABRIC Codex
+### í³š FABRIC Codex
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/frame-logo-no-subtitle.svg" alt="Frame Codex" width="100" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
+    <img alt="Frame Codex" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="120">
+  </picture>
 </div>
 
 **The Codex of Humanity for LLMs**  
@@ -66,28 +80,26 @@ Curated, semantic knowledge infrastructure for AI retrieval and reasoning.
 
 ---
 
-### ğŸ› ï¸ Developer Tools
+### í» ï¸ Developer Tools
 
 - **[sql-storage-adapter](https://github.com/framersai/sql-storage-adapter)** - Universal SQL adapter for SQLite, Postgres, MySQL across Node.js, Bun, Deno [![npm](https://img.shields.io/npm/v/@framers/sql-storage-adapter?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/sql-storage-adapter)
 
 ---
 
-### ğŸŒ Frame Ecosystem
+### í¼ Frame Ecosystem
 
 - **[frame.dev](https://github.com/framersai/frame.dev)** - Main website, landing pages, and documentation hub [![Website](https://img.shields.io/badge/Live-frame.dev-00C896?style=flat-square)](https://frame.dev)
 
 ---
 
-## ğŸš€ Getting Started
+## íº€ Getting Started
 
 ### Try AgentOS
-
 ```bash
 npm install @framers/agentos
 ```
 
 ### Try OpenStrand
-
 ```bash
 npm install @framers/openstrand-sdk
 ```
@@ -96,7 +108,7 @@ Visit [frame.dev](https://frame.dev) to explore all our products.
 
 ---
 
-## ğŸ¤ Community
+## í´ Community
 
 - **Discord**: [Join our community](https://discord.gg/VXXC4SJMKh)
 - **Twitter**: [@framersai](https://twitter.com/framersai)
@@ -105,7 +117,7 @@ Visit [frame.dev](https://frame.dev) to explore all our products.
 
 ---
 
-## ğŸ“„ License
+## í³„ License
 
 Projects are released under various open source licenses. See individual repositories for details.
 
@@ -113,7 +125,11 @@ Projects are released under various open source licenses. See individual reposit
 
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/frame-logo-no-subtitle.svg" alt="Frame" width="80" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
+    <img alt="Frame" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="80">
+  </picture>
   <p>
     <strong>Â© 2025 Framers</strong><br/>
     <em>we are the framers</em><br/>
