@@ -61,15 +61,15 @@ Your second brain, visualized and woven. Automatically connects and categorizes 
 - **[openstrand-sdk](https://github.com/framersai/openstrand-sdk)** - TypeScript SDK [![npm](https://img.shields.io/npm/v/@framers/openstrand-sdk?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/openstrand-sdk)
 
 ---
+    
+### 📚 FABRIC Codex
+
+<div align="center">
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
     <img alt="Frame Codex" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="240">
   </picture
-### 📚 FABRIC Codex
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/.github/master/profile/frame-logo-no-subtitle.svg" alt="Frame Codex" width="200" />
 </div>
 
 **The Codex of Humanity for LLMs**  
