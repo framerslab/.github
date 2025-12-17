@@ -51,6 +51,7 @@ Build AI agents that adapt their personas dynamically, collaborate with each oth
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-light.png">
     <img alt="OpenStrand" src="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-light.png" width="140">
   </picture>
+  <br/><br/>
 </div>
 
 **AI-Native Personal Knowledge Management**  
@@ -70,6 +71,7 @@ Your second brain, visualized and woven. Automatically connects and categorizes 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
     <img alt="Frame Codex" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="240">
   </picture
+  <br/><br/>
 </div>
 
 **The Codex of Humanity for LLMs**  
