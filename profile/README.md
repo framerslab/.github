@@ -62,23 +62,23 @@ Your second brain, visualized and woven. Automatically connects and categorizes 
 - **[openstrand-sdk](https://github.com/framersai/openstrand-sdk)** - TypeScript SDK [![npm](https://img.shields.io/npm/v/@framers/openstrand-sdk?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/openstrand-sdk)
 
 ---
-    
-### 📚 FABRIC Codex
+
+### ⛏️ Quarry
 
 <div align="center">
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
-    <img alt="Frame Codex" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="240">
-  </picture
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/quarry-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/quarry-logo-light.png">
+    <img alt="Quarry" src="https://raw.githubusercontent.com/framersai/.github/main/profile/quarry-logo-light.png" width="240">
+  </picture>
   <br/><br/>
 </div>
 
-**The Codex of Humanity for LLMs**  
-Curated, semantic knowledge infrastructure for AI retrieval and reasoning.
+**The Codex of Humanity**  
+Open source digital garden and knowledge base. 100% offline, semantic search, automatic organization—your knowledge, intelligently connected.
 
-- **[codex](https://github.com/framersai/codex)** - Core codex repository & browser [![Website](https://img.shields.io/badge/Browse-frame.dev%2Fcodex-00C896?style=flat-square)](https://frame.dev/codex)
-- **[codex-viewer](https://www.npmjs.com/package/@framers/codex-viewer)** - Embeddable knowledge browser [![npm](https://img.shields.io/npm/v/@framers/codex-viewer?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/codex-viewer)
+- **[codex](https://github.com/framersai/codex)** - Core codex repository & browser [![Website](https://img.shields.io/badge/Browse-frame.dev%2Fquarry-00C896?style=flat-square)](https://frame.dev/quarry)
+- **[quarry-viewer](https://www.npmjs.com/package/@framers/quarry-viewer)** - Embeddable knowledge browser [![npm](https://img.shields.io/npm/v/@framers/quarry-viewer?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/quarry-viewer)
 
 ---
 
@@ -100,43 +100,3 @@ Curated, semantic knowledge infrastructure for AI retrieval and reasoning.
 
 ```bash
 npm install @framers/agentos
-```
-
-### Try OpenStrand
-
-```bash
-npm install @framers/openstrand-sdk
-```
-
-Visit [frame.dev](https://frame.dev) to explore all our products.
-
----
-
-## 🤝 Community
-
-- **Discord**: [Join our community](https://discord.gg/VXXC4SJMKh)
-- **Twitter**: [@framersai](https://twitter.com/framersai)
-- **Email**: [team@frame.dev](mailto:team@frame.dev)
-- **Website**: [frame.dev](https://frame.dev)
-
----
-
-## 📄 License
-
-Projects are released under various open source licenses. See individual repositories for details.
-
----
-
-<div align="center">
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
-    <img alt="Frame" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="80">
-  </picture>
-  <p>
-    <strong>© 2025 Framers</strong><br/>
-    <em>we are the framers</em><br/>
-    <a href="https://frame.dev">frame.dev</a> · <a href="mailto:team@frame.dev">team@frame.dev</a>
-  </p>
-</div>
