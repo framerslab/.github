@@ -43,6 +43,19 @@ Build AI agents that adapt their personas dynamically, collaborate with each oth
 
 ---
 
+### 🛡️ SafeOS
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/framersai/.github/main/profile/safeos-logo.svg" alt="SafeOS Guardian" width="200" />
+</div>
+
+**Humanitarian AI Monitoring—Free Forever**
+Local-first AI care for pets, babies, and elderly. Privacy-preserving vision AI that runs 100% offline. Part of Frame's nonprofit initiative for superintelligence benefiting society.
+
+- **[safeos](https://github.com/framersai/safeos)** - Core application & monitoring runtime [![Website](https://img.shields.io/badge/Live-safeos.sh-22C55E?style=flat-square)](https://safeos.sh)
+
+---
+
 ### ∞ OpenStrand
 
 <div align="center">
