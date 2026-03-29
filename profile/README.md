@@ -1,115 +1,71 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png">
-    <img alt="Frame" src="https://raw.githubusercontent.com/framersai/.github/main/profile/frame-logo-light.png" width="300">
-  </picture>
-  
-  <br/><br/>
-  
-  [![Website](https://img.shields.io/badge/Website-frame.dev-00C896?style=flat-square)](https://frame.dev)
-  [![Email](https://img.shields.io/badge/Email-team%40frame.dev-red?style=flat-square)](mailto:team@frame.dev)
-  [![NPM](https://img.shields.io/badge/NPM-@framers-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/org/framers)
-  [![Twitter](https://img.shields.io/badge/Twitter-@framersai-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/framersai)
-  [![GitHub](https://img.shields.io/badge/GitHub-@framersai-181717?style=flat-square&logo=github)](https://github.com/framersai)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat-square&logo=discord)](https://discord.gg/VXXC4SJMKh)
+
+# Frame.dev
+
+### AI Infrastructure for Autonomous Agents
+
+We're building adaptive AI infrastructure — powering AI agents that adapt, collaborate, and improve themselves. Open source, local-first, AI-native, and yours.
+
+[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framersai)
+
 </div>
 
 ---
 
-## AI Infrastructure for Knowledge and Superintelligence
-
-We're building adaptive AI infrastructure that is emergent and permanent—denoising the web, powering AI agents, and serving as the **OS for humans** and the **codex of humanity**.
-
-Open source, local-first, AI-native, and yours. All built on **OpenStrand** and **AgentOS**.
-
----
-
-## 🌟 Core Projects
-
-### 🤖 AgentOS
+## 🤖 AgentOS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/.github/main/profile/agentos-logo.png" alt="AgentOS" width="280" />
-</div>
 
-**Adaptive AI Agency Runtime**  
+**Adaptive AI Agency Runtime**
+
 Build AI agents that adapt their personas dynamically, collaborate with each other, and perform emergent behaviors.
 
-- **[agentos](https://github.com/framersai/agentos)** - Core runtime & cognitive substrate [![npm](https://img.shields.io/npm/v/@framers/agentos?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/agentos)
-- **[agentos.sh](https://agentos.sh)** - Marketing, documentation & playground [![Website](https://img.shields.io/badge/Live-agentos.sh-00C896?style=flat-square)](https://agentos.sh)
-- **[agentos-workbench](https://github.com/framersai/agentos-workbench)** - Full-featured client-side app for building and testing agents
-- **[agentos-extensions](https://github.com/framersai/agentos-extensions)** - Extension marketplace & samples
-
----
-
-### 🛡️ SafeOS
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/framersai/.github/main/profile/safeos-logo.svg" alt="SafeOS Guardian" width="200" />
 </div>
 
-**Humanitarian AI Monitoring—Free Forever**
-Local-first AI care for pets, babies, and elderly. Privacy-preserving vision AI that runs 100% offline. Part of Frame's nonprofit initiative for superintelligence benefiting society.
-
-- **[safeos](https://github.com/framersai/safeos)** - Core application & monitoring runtime [![Website](https://img.shields.io/badge/Live-safeos.sh-22C55E?style=flat-square)](https://safeos.sh)
+| Package | Description | Links |
+|---------|-------------|-------|
+| [`@framers/agentos`](https://github.com/framersai/agentos) | Core runtime & cognitive substrate | [![npm](https://img.shields.io/npm/v/@framers/agentos)](https://www.npmjs.com/package/@framers/agentos) |
+| [`agentos.sh`](https://github.com/framersai/agentos.sh) | Marketing, documentation & playground | [Website](https://agentos.sh) |
+| [`agentos-workbench`](https://github.com/framersai/agentos-workbench) | Full-featured client for building and testing agents | |
+| [`agentos-extensions`](https://github.com/framersai/agentos-extensions) | Extension marketplace & samples | [![npm](https://img.shields.io/npm/v/@framers/agentos-extensions)](https://www.npmjs.com/package/@framers/agentos-extensions) |
+| [`agentos-extensions-registry`](https://github.com/framersai/agentos-extensions-registry) | Curated extension registry SDK | [![npm](https://img.shields.io/npm/v/@framers/agentos-extensions-registry)](https://www.npmjs.com/package/@framers/agentos-extensions-registry) |
+| [`agentos-skills`](https://github.com/framersai/agentos-skills) | Community skill registry (69 SKILL.md modules) | [![npm](https://img.shields.io/npm/v/@framers/agentos-skills)](https://www.npmjs.com/package/@framers/agentos-skills) |
+| [`agentos-skills-registry`](https://github.com/framersai/agentos-skills-registry) | Curated skills registry SDK | [![npm](https://img.shields.io/npm/v/@framers/agentos-skills-registry)](https://www.npmjs.com/package/@framers/agentos-skills-registry) |
+| [`agentos-personas`](https://github.com/framersai/agentos-personas) | Persona registry for GMI personalities | |
+| [`agentos-live-docs`](https://github.com/framersai/agentos-live-docs) | Live documentation pages | |
 
 ---
 
-### ∞ OpenStrand
+## 🗄️ Developer Tools
+
+| Package | Description | Links |
+|---------|-------------|-------|
+| [`sql-storage-adapter`](https://github.com/framersai/sql-storage-adapter) | Universal cross-platform SQL access (SQLite, Postgres, IndexedDB, Capacitor) | [![npm](https://img.shields.io/npm/v/@framers/sql-storage-adapter)](https://www.npmjs.com/package/@framers/sql-storage-adapter) |
+| [`promptmachine-eval`](https://github.com/framersai/promptmachine-eval) | LLM evaluation framework with ELO ratings & arena battles | |
+
+---
+
+## 🛡️ SafeOS
+
+**Humanitarian AI Monitoring** — Free forever, offline-first virtual guardian for pets, babies, and elderly care.
+
+| Package | Description |
+|---------|-------------|
+| [`safeos`](https://github.com/framersai/safeos) | Localized offline virtual guardian |
+
+---
+
+## 🌐 Community
+
+| Resource | Link |
+|----------|------|
+| [`discussions`](https://github.com/framersai/discussions) | Community discourse & feedback |
+| [`voice-chat-assistants`](https://github.com/framersai/voice-chat-assistants) | Marketplace for voice chat assistants |
+
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-light.png">
-    <img alt="OpenStrand" src="https://raw.githubusercontent.com/framersai/.github/main/profile/openstrand-logo-light.png" width="140">
-  </picture>
-  <br/><br/>
+
+**Built by [Frame.dev](https://frame.dev)** · Open source under MIT
+
 </div>
-
-**AI-Native Personal Knowledge Management**  
-Your second brain, visualized and woven. Automatically connects and categorizes everything—documents, notes, ideas—into a living knowledge graph you control.
-
-- **[openstrand](https://github.com/framersai/openstrand)** - Core protocols & infrastructure [![Website](https://img.shields.io/badge/Website-openstrand.ai-00C896?style=flat-square)](https://openstrand.ai)
-- **[openstrand-app](https://github.com/framersai/openstrand-app)** - Desktop & mobile applications
-- **[openstrand-sdk](https://github.com/framersai/openstrand-sdk)** - TypeScript SDK [![npm](https://img.shields.io/npm/v/@framers/openstrand-sdk?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/openstrand-sdk)
-
----
-
-### ⛏️ Quarry
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/quarry-logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/framersai/.github/main/profile/quarry-logo-light.png">
-    <img alt="Quarry" src="https://raw.githubusercontent.com/framersai/.github/main/profile/quarry-logo-light.png" width="240">
-  </picture>
-  <br/><br/>
-</div>
-
-**The Codex of Humanity**  
-Open source digital garden and knowledge base. 100% offline, semantic search, automatic organization—your knowledge, intelligently connected.
-
-- **[codex](https://github.com/framersai/codex)** - Core codex repository & browser [![Website](https://img.shields.io/badge/Browse-frame.dev%2Fquarry-00C896?style=flat-square)](https://frame.dev/quarry)
-- **[quarry-viewer](https://www.npmjs.com/package/@framers/quarry-viewer)** - Embeddable knowledge browser [![npm](https://img.shields.io/npm/v/@framers/quarry-viewer?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/quarry-viewer)
-
----
-
-### 🛠️ Developer Tools
-
-- **[sql-storage-adapter](https://github.com/framersai/sql-storage-adapter)** - Universal SQL adapter for SQLite, Postgres, MySQL across Node.js, Bun, Deno [![npm](https://img.shields.io/npm/v/@framers/sql-storage-adapter?style=flat-square&logo=npm)](https://www.npmjs.com/package/@framers/sql-storage-adapter)
-
----
-
-### 🌐 Frame Ecosystem
-
-- **[frame.dev](https://github.com/framersai/frame.dev)** - Main website, landing pages, and documentation hub [![Website](https://img.shields.io/badge/Live-frame.dev-00C896?style=flat-square)](https://frame.dev)
-
----
-
-## 🚀 Getting Started
-
-### Try AgentOS
-
-```bash
-npm install @framers/agentos
