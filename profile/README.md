@@ -6,9 +6,27 @@
 
 We're building adaptive AI infrastructure — powering AI agents that adapt, collaborate, and improve themselves. Open source, local-first, AI-native, and yours.
 
-[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framersai)
+[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framersai)
 
 </div>
+
+---
+
+## 🌀 Paracosm
+
+<div align="center">
+
+**AI Agent Swarm Simulation Engine**
+
+Spawn autonomous agent swarms from JSON scenario definitions. Emergent tool forging, HEXACO personality evolution, deterministic divergence kernels. Two AI commanders run the same world and diverge based on personality.
+
+[Live Demo](https://paracosm.agentos.sh/sim) · [Landing Page](https://paracosm.agentos.sh) · [npm](https://www.npmjs.com/package/paracosm)
+
+</div>
+
+| Package | Description | Links |
+|---------|-------------|-------|
+| [`paracosm`](https://github.com/framersai/paracosm) | Simulation engine, compiler, runtime, dashboard | [![npm](https://img.shields.io/npm/v/paracosm)](https://www.npmjs.com/package/paracosm) |
 
 ---
 
