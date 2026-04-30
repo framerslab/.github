@@ -6,7 +6,7 @@
 
 We're building adaptive AI infrastructure — powering AI agents that adapt, collaborate, and improve themselves. Open source, local-first, AI-native, and yours.
 
-[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framersai)
+[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [Wilds AI](https://wilds.ai) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framersai)
 
 </div>
 
@@ -27,6 +27,24 @@ Spawn autonomous agent swarms from JSON scenario definitions. Emergent tool forg
 | Package | Description | Links |
 |---------|-------------|-------|
 | [`paracosm`](https://github.com/framersai/paracosm) | Simulation engine, compiler, runtime, dashboard | [![npm](https://img.shields.io/npm/v/paracosm)](https://www.npmjs.com/package/paracosm) |
+
+---
+
+## 🌍 Wilds AI
+
+<div align="center">
+
+**AI-Native Story Worlds**
+
+Companions that remember. Adventures that adapt. Multiplayer simulation playground where AgentOS agents with cognitive memory and HEXACO personality inhabit Paracosm-compiled worlds. Drop into existing worlds, fork them, or compile new ones in the browser.
+
+[Website](https://wilds.ai) · [Repo](https://github.com/framersai/wilds-ai)
+
+</div>
+
+| Package | Description | Links |
+|---------|-------------|-------|
+| [`wilds-ai`](https://github.com/framersai/wilds-ai) | AI-native gaming platform built on AgentOS + Paracosm | [Website](https://wilds.ai) |
 
 ---
 
