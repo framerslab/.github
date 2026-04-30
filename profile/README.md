@@ -36,7 +36,9 @@ Spawn autonomous agent swarms from JSON scenario definitions. Emergent tool forg
 
 **Adaptive AI Agency Runtime**
 
-Build AI agents that adapt their personas dynamically, collaborate with each other, and perform emergent behaviors.
+Build AI agents that adapt their personas dynamically, collaborate with each other, and perform emergent behaviors. TypeScript runtime with cognitive memory, HEXACO personality (optional), and runtime tool forging.
+
+**LongMemEval-S 85.6%** [82.4%, 88.6%] at $0.0090 per correct (matched-reader gpt-4o) · **LongMemEval-M 70.2%** [66.0%, 74.0%] at $0.0078 per correct (reader-router top-K=5). Methodology: bootstrap 95% CI 10k resamples, judge FPR probed. See [`agentos-bench`](https://github.com/framersai/agentos-bench) for raw run JSON, leaderboard, per-stage findings.
 
 </div>
 
