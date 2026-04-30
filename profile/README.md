@@ -38,7 +38,7 @@ Spawn autonomous agent swarms from JSON scenario definitions. Emergent tool forg
 
 Build AI agents that adapt their personas dynamically, collaborate with each other, and perform emergent behaviors. TypeScript runtime with cognitive memory, HEXACO personality (optional), and runtime tool forging.
 
-**LongMemEval-S 85.6%** [82.4%, 88.6%] at $0.0090 per correct (matched-reader gpt-4o) · **LongMemEval-M 70.2%** [66.0%, 74.0%] at $0.0078 per correct (reader-router top-K=5). Methodology: bootstrap 95% CI 10k resamples, judge FPR probed. See [`agentos-bench`](https://github.com/framersai/agentos-bench) for raw run JSON, leaderboard, per-stage findings.
+**LongMemEval-S 85.6%** at $0.0090 per correct, +1.4 points above Mastra OM gpt-4o (84.23%) at the matched reader · **LongMemEval-M 70.2%** at $0.0078 per correct, the first open-source library on the public record above 65% on the M variant (1.5M tokens, 500 sessions) and +4.5 points above the LongMemEval paper's strongest published M result (Wu et al., ICLR 2025, 65.7%). See [`agentos-bench`](https://github.com/framersai/agentos-bench) for raw run JSONs, leaderboard, and methodology audit.
 
 </div>
 
@@ -86,6 +86,6 @@ Build AI agents that adapt their personas dynamically, collaborate with each oth
 
 <div align="center">
 
-**Built by [Frame.dev](https://frame.dev)** · Open source under MIT
+**Built by [Frame.dev](https://frame.dev)** · Open source under Apache-2.0
 
 </div>
