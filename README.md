@@ -13,4 +13,4 @@ Organization-wide GitHub configurations and templates for [Framers AI](https://f
 - **Website**: [frame.dev](https://frame.dev)
 - **Email**: [team@frame.dev](mailto:team@frame.dev)
 - **NPM**: [@framers](https://www.npmjs.com/org/framers)
-- **Social**: [@framersai](https://twitter.com/framersai)
+- **Social**: [@framerslab](https://twitter.com/framerslab)
