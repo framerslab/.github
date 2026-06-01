@@ -67,13 +67,13 @@ Spawn autonomous agent swarms from JSON scenario definitions. Emergent tool forg
 
 Companions that remember. Adventures that adapt. Multiplayer simulation playground where AgentOS agents with cognitive memory and HEXACO personality inhabit Paracosm-compiled worlds. Drop into existing worlds, fork them, or compile new ones in the browser.
 
-[Website](https://wilds.ai) · [Repo](https://github.com/framersai/wilds-ai)
+[Website](https://wilds.ai)
 
 </div>
 
 | Package | Description | Links |
 |---------|-------------|-------|
-| [`wilds-ai`](https://github.com/framersai/wilds-ai) | AI-native gaming platform built on AgentOS + Paracosm | [Website](https://wilds.ai) |
+| [`wilds-ai`](https://wilds.ai) | AI-native gaming platform built on AgentOS + Paracosm | [Website](https://wilds.ai) |
 
 ---
 
