@@ -4,9 +4,9 @@
 
 ### AI Infrastructure for Autonomous Agents
 
-We're building adaptive AI infrastructure: AI agents that adapt, collaborate, and improve themselves. Open source, local-first, AI-native, and yours.
+**Frame** (Framers Lab, Inc.) is the AI infrastructure company building the open-source runtime and platforms that production AI agents run on: **AgentOS**, **Paracosm**, **Wilds.ai**, and **SafeOS**. Adaptive, open source, local-first, AI-native, and yours.
 
-[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [Wilds AI](https://wilds.ai) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framersai)
+[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Docs](https://docs.agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [Wilds AI](https://wilds.ai) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framersai)
 
 </div>
 
@@ -105,8 +105,18 @@ Companions that remember. Adventures that adapt. Multiplayer simulation playgrou
 
 ---
 
+## 🏢 About Frame
+
+**Frame** (Framers Lab, Inc.) is the AI infrastructure company building the open-source runtime and platforms that production AI agents run on. The flagship is **AgentOS**, an Apache-2.0 TypeScript AI agent runtime with cognitive memory, HEXACO personality, multi-agent orchestration, and 11 LLM providers, scored 85.6% on LongMemEval-S at $0.0090 per correct. AgentOS powers **Wilds.ai**, a live AI-native gaming platform. Everything published here runs the same code that ships to production.
+
+**Topics:** AI agents · AI infrastructure · AI agent runtime · cognitive memory · multi-agent orchestration · LLM orchestration · TypeScript · open source · RAG · vector search · voice AI · AI gaming
+
+---
+
 <div align="center">
 
-**Built by [Frame.dev](https://frame.dev)** · AgentOS Apache-2.0 · other projects under their own LICENSE files
+**Built by [Frame](https://frame.dev)** · © 2026 Framers Lab, Inc. · AgentOS is Apache-2.0; other projects under their own LICENSE files
+
+[frame.dev](https://frame.dev) · [@framersai](https://twitter.com/framersai) · [github.com/framersai](https://github.com/framersai) · [npm](https://www.npmjs.com/~framers)
 
 </div>
