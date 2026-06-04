@@ -8,8 +8,6 @@
 
 [Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Docs](https://docs.agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [Wilds AI](https://wilds.ai) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framerslab)
 
-[![Backed by Deepgram for Startups](https://img.shields.io/badge/Backed_by-Deepgram_for_Startups-13EF93?style=flat-square&logo=deepgram&logoColor=black)](https://deepgram.com/startups)
-
 </div>
 
 ---
@@ -116,6 +114,8 @@ Companions that remember. Adventures that adapt. Multiplayer simulation playgrou
 ---
 
 <div align="center">
+
+[![Backed by Deepgram for Startups](https://img.shields.io/badge/Backed_by-Deepgram_for_Startups-13EF93?style=flat-square&logo=deepgram&logoColor=black)](https://deepgram.com/startups)
 
 **Built by [Frame](https://frame.dev)** · © 2026 Framers Lab, Inc. · AgentOS is Apache-2.0; other projects under their own LICENSE files
 
