@@ -1,5 +1,2 @@
-# GitHub Sponsors — org-wide default for every framersai/* repository.
-# Falls through to this when a repo has no .github/FUNDING.yml of its own.
-# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
-
-github: [framersai, manicinc]
+github: [framerslab]
+custom: ["https://frame.dev"]
