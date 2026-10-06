@@ -1,10 +1,10 @@
-# Framers AI
+# Frame
 
-Organization-wide GitHub configurations and templates for [Framers AI](https://frame.dev).
+Organization-wide GitHub configurations and templates for [Frame](https://frame.dev).
 
 ## About
 
-**Framers AI** builds adaptive AI infrastructure — powering AI agents that adapt, collaborate, and improve themselves. Open source, local-first, AI-native.
+**Frame** builds adaptive AI infrastructure — powering AI agents that adapt, collaborate, and improve themselves. Open source, local-first, AI-native.
 
 **See our [organization profile](./profile/README.md) for the full project listing.**
 

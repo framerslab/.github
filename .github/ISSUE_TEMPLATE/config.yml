@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/framerslab/.github/blob/main/.github/SECURITY.md
+    about: Report it privately as the security policy describes. Do not open a public issue.
+  - name: Ask a question
+    url: https://wilds.ai/discord
+    about: Questions and discussion happen on Discord.
+  - name: Read the AgentOS documentation
+    url: https://docs.agentos.sh
+    about: Guides, API reference and examples.
