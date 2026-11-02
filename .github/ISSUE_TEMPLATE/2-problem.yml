@@ -1,8 +1,11 @@
 name: Problem
-description: Something broken or wrong that no pull request fixes yet. The pull request that fixes it says "Fixes #n".
-title: "<area>: <what is wrong>"
+description: 'Something broken or wrong that no pull request fixes yet. The pull request that fixes it says "Fixes #n".'
 labels: ["track", "bug"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Title it with the area, a colon and what is wrong, such as "billing: refund button does nothing on a phone".
   - type: textarea
     id: happened
     attributes:
@@ -26,7 +29,7 @@ body:
     id: pictures
     attributes:
       label: Screenshots and logs
-      description: Drag pictures in and paste the log lines. Write "None" if there is nothing to show.
+      description: Drag pictures in and paste the log lines, with secrets and personal data hidden. Write "None" if there is nothing to show.
     validations:
       required: true
   - type: input
