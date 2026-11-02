@@ -1,0 +1,48 @@
+name: Problem
+description: 'Something broken or wrong that no pull request fixes yet. The pull request that fixes it says "Fixes #n".'
+labels: ["track", "bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Title it with the area, a colon and what is wrong, such as "billing: refund button does nothing on a phone".
+  - type: textarea
+    id: happened
+    attributes:
+      label: What happened
+    validations:
+      required: true
+  - type: textarea
+    id: input
+    attributes:
+      label: Failing input
+      description: The exact input, page, command or steps that show it, so anyone can see it fail.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected
+    validations:
+      required: true
+  - type: textarea
+    id: pictures
+    attributes:
+      label: Screenshots and logs
+      description: Drag pictures in and paste the log lines, with secrets and personal data hidden. Write "None" if there is nothing to show.
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where it was found
+      description: The release, commit, page address or environment.
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Spec, docs and related issues
+      description: Links to the spec or docs that say what should happen, and any related issue or pull request. Write "None" if there are none.
+    validations:
+      required: true
