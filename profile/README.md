@@ -77,6 +77,25 @@ Companions that remember. Adventures that adapt. Multiplayer simulation playgrou
 
 ---
 
+## 🎓 Quarry School · Education
+
+<div align="center">
+
+**Free Lessons, Read Aloud, from Zero to Test Level**
+
+Frame also builds education products with generative AI. Quarry School teaches College Algebra and Trigonometry in free lessons that start in plain words and build to the questions a test asks. A recorded voice reads each lesson, worked examples play step by step, and practice checks each answer as you go. An AI tutor reads the same lesson and gives a hint before the answer. The team picks the sources, AI models write the explanations, worked examples and practice from them, and programs recompute the answers they can and flag missing citations and copied wording. The courses use OpenQuarry, Frame's open format for notes and courses kept as plain Markdown files.
+
+[Quarry School](https://quarry.school) · [OpenQuarry](https://openquarry.dev) · [npm](https://www.npmjs.com/package/@framers/openquarry)
+
+</div>
+
+| Package | Description | Links |
+|---------|-------------|-------|
+| [`quarry.school`](https://quarry.school) | College Algebra and Trigonometry lessons, free and read aloud, with step-by-step worked examples, practice and an AI tutor | [Website](https://quarry.school) |
+| [`openquarry`](https://github.com/framerslab/openquarry) | Open format for notes and courses in Markdown: JSON Schemas, TypeScript types and a validator | [![npm](https://img.shields.io/npm/v/@framers/openquarry)](https://www.npmjs.com/package/@framers/openquarry) · [Website](https://openquarry.dev) |
+
+---
+
 ## 🗄️ Developer Tools
 
 | Package | Description | Links |
