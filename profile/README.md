@@ -105,7 +105,7 @@ npm install @framers/openquarry
 
 **Products by Manic Agency LLC, Built on Framers Lab's Open Code**
 
-Quarry and Quarry School are Manic Agency LLC products built on Framers Lab's open code. Quarry is a personal knowledge base: notes kept as Markdown, linked into a knowledge graph and searchable offline. Quarry School teaches College Algebra and Trigonometry in free lessons that start in plain words and build to the questions a test asks. A recorded voice reads each lesson, worked examples play step by step, and practice checks each answer as you go. An AI tutor reads the same lesson and gives a hint before the answer. AI models write the explanations, worked examples and practice from chosen sources; an engine from a second AI company recomputes the answers and reads each unit before it goes public. Quarry School's courses use the OpenQuarry format.
+Quarry and Quarry School are Manic Agency LLC products built on Framers Lab's open code. Quarry is a personal knowledge base: notes kept as Markdown, linked into a knowledge graph and searchable offline. Quarry School teaches College Algebra and Trigonometry in free lessons that start in plain words and build to the questions a test asks. A recorded voice reads each lesson, worked examples play step by step, and practice checks each answer as you go. An AI tutor reads the same lesson and gives a hint before the answer. AI models write the explanations, worked examples and practice from chosen sources; a separate engine recomputes the answers, and an AI reader from a vendor that did not write the unit reads it before it goes public. Quarry School's courses use the OpenQuarry format.
 
 [Quarry](https://quarry.space) · [Quarry School](https://quarry.school) · [OpenQuarry](https://openquarry.dev)
 
