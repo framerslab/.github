@@ -4,9 +4,9 @@
 
 ### AI Infrastructure for Autonomous Agents
 
-**Frame** (Framers Lab, Inc.) is the AI infrastructure company building the open-source runtime and platforms that production AI agents run on: **AgentOS**, **Paracosm**, **Wilds.ai**, and **SafeOS**. Adaptive, open source, local-first, AI-native, and yours.
+**Frame** (Framers Lab, Inc.) is the AI infrastructure company building the open-source runtime and platforms that production AI agents run on: **AgentOS**, **Paracosm**, **OpenQuarry**, **Wilds.ai**, and **SafeOS**. Adaptive, open source, local-first, AI-native, and yours.
 
-[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Docs](https://docs.agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [Wilds AI](https://wilds.ai) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framerslab)
+[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Docs](https://docs.agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [OpenQuarry](https://openquarry.dev) · [Wilds AI](https://wilds.ai) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framerslab)
 
 </div>
 
@@ -77,22 +77,44 @@ Companions that remember. Adventures that adapt. Multiplayer simulation playgrou
 
 ---
 
-## 🎓 Quarry School · Education
+## 📐 OpenQuarry · Open Format
 
 <div align="center">
 
-**Free Lessons, Read Aloud, from Zero to Test Level**
+**An Open Format for Notes and Courses in Plain Markdown**
 
-Frame also builds education products with generative AI. Quarry School teaches College Algebra and Trigonometry in free lessons that start in plain words and build to the questions a test asks. A recorded voice reads each lesson, worked examples play step by step, and practice checks each answer as you go. An AI tutor reads the same lesson and gives a hint before the answer. The team picks the sources, AI models write the explanations, worked examples and practice from them, and programs recompute the answers they can and flag missing citations and copied wording. The courses use OpenQuarry, Frame's open format for notes and courses kept as plain Markdown files.
+OpenQuarry is Framers Lab's open format for knowledge bases and courses kept as plain Markdown files with frontmatter. The package ships JSON Schemas for notes, lessons and folder manifests, TypeScript types, and a validator.
 
-[Quarry School](https://quarry.school) · [OpenQuarry](https://openquarry.dev) · [npm](https://www.npmjs.com/package/@framers/openquarry)
+```bash
+npm install @framers/openquarry
+```
+
+[Website](https://openquarry.dev) · [GitHub](https://github.com/framerslab/openquarry) · [npm](https://www.npmjs.com/package/@framers/openquarry)
 
 </div>
 
 | Package | Description | Links |
 |---------|-------------|-------|
-| [`quarry.school`](https://quarry.school) | College Algebra and Trigonometry lessons, free and read aloud, with step-by-step worked examples, practice and an AI tutor | [Website](https://quarry.school) |
 | [`openquarry`](https://github.com/framerslab/openquarry) | Open format for notes and courses in Markdown: JSON Schemas, TypeScript types and a validator | [![npm](https://img.shields.io/npm/v/@framers/openquarry)](https://www.npmjs.com/package/@framers/openquarry) · [Website](https://openquarry.dev) |
+
+---
+
+## 🎓 Built on Framers Lab · Quarry and Quarry School
+
+<div align="center">
+
+**Products by Manic Agency LLC, Built on Framers Lab's Open Code**
+
+Quarry and Quarry School are Manic Agency LLC products built on Framers Lab's open code. Quarry is a personal knowledge base: notes kept as Markdown, linked into a knowledge graph and searchable offline. Quarry School teaches College Algebra and Trigonometry in free lessons that start in plain words and build to the questions a test asks. A recorded voice reads each lesson, worked examples play step by step, and practice checks each answer as you go. An AI tutor reads the same lesson and gives a hint before the answer. AI models write the explanations, worked examples and practice from chosen sources; an engine from a second AI company recomputes the answers and reads each unit before it goes public. Quarry School's courses use the OpenQuarry format.
+
+[Quarry](https://quarry.space) · [Quarry School](https://quarry.school) · [OpenQuarry](https://openquarry.dev)
+
+</div>
+
+| Product | Description | Links |
+|---------|-------------|-------|
+| [`quarry.space`](https://quarry.space) | Personal knowledge base: Markdown notes, a knowledge graph and offline search | [Website](https://quarry.space) |
+| [`quarry.school`](https://quarry.school) | College Algebra and Trigonometry lessons, free and read aloud, with step-by-step worked examples, practice and an AI tutor | [Website](https://quarry.school) |
 
 ---
 
