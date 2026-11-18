@@ -4,9 +4,9 @@
 
 ### AI Infrastructure for Autonomous Agents
 
-**Frame** (Framers Lab, Inc.) is the AI infrastructure company building the open-source runtime and platforms that production AI agents run on: **AgentOS**, **Paracosm**, **Wilds.ai**, and **SafeOS**. Adaptive, open source, local-first, AI-native, and yours.
+**Frame** (Framers Lab, Inc.) is the AI infrastructure company building the open-source runtime and platforms that production AI agents run on: **AgentOS**, **Paracosm**, **OpenQuarry**, **Wilds.ai**, and **SafeOS**. Adaptive, open source, local-first, AI-native, and yours.
 
-[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Docs](https://docs.agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [Wilds AI](https://wilds.ai) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framerslab)
+[Website](https://frame.dev) · [AgentOS](https://agentos.sh) · [Docs](https://docs.agentos.sh) · [Paracosm](https://paracosm.agentos.sh) · [OpenQuarry](https://openquarry.dev) · [Wilds AI](https://wilds.ai) · [npm](https://www.npmjs.com/~framers) · [Twitter](https://twitter.com/framerslab)
 
 </div>
 
@@ -74,6 +74,28 @@ Companions that remember. Adventures that adapt. Multiplayer simulation playgrou
 | Package | Description | Links |
 |---------|-------------|-------|
 | [`wilds-ai`](https://wilds.ai) | AI-native gaming platform built on AgentOS + Paracosm | [Website](https://wilds.ai) |
+
+---
+
+## 📐 OpenQuarry · Open Format
+
+<div align="center">
+
+**An Open Format for Notes and Courses in Plain Markdown**
+
+OpenQuarry is Framers Lab's open format for knowledge bases and courses kept as plain Markdown files with frontmatter. The package ships JSON Schemas for notes, lessons and folder manifests, TypeScript types, and a validator.
+
+```bash
+npm install @framers/openquarry
+```
+
+[Website](https://openquarry.dev) · [GitHub](https://github.com/framerslab/openquarry) · [npm](https://www.npmjs.com/package/@framers/openquarry)
+
+</div>
+
+| Package | Description | Links |
+|---------|-------------|-------|
+| [`openquarry`](https://github.com/framerslab/openquarry) | Open format for notes and courses in Markdown: JSON Schemas, TypeScript types and a validator | [![npm](https://img.shields.io/npm/v/@framers/openquarry)](https://www.npmjs.com/package/@framers/openquarry) · [Website](https://openquarry.dev) |
 
 ---
 
